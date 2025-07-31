@@ -10,3 +10,5 @@ int main(){
         cout<<ch<<" ";
     }
 }
+
+// for running code => g++ 02_strings/01_basics/01_code.cpp -o out && ./out
